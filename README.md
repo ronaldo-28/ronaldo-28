@@ -27,7 +27,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Visitor Count
-[![Visitor Count](https://profile-counter.glitch.me/ronaldo-28/count.svg)](https://profile-counter.glitch.me/ronaldo-28/count)
----
+
+![Visitors](https://count.getloli.com/get/@ronaldo-28?theme=rule34)
+
+<!-- Fallback visitor counter if above fails -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ronaldo-28/count.svg" 
+       onerror="this.src='https://example.com/fallback-image.png'" 
+       alt="Visitor Counter"/>
+</p>
 
 
