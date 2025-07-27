@@ -30,11 +30,4 @@
 
 ![Visitors](https://count.getloli.com/get/@ronaldo-28?theme=rule34)
 
-<!-- Fallback visitor counter if above fails -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ronaldo-28/count.svg" 
-       onerror="this.src='https://example.com/fallback-image.png'" 
-       alt="Visitor Counter"/>
-</p>
-
 
