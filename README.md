@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hi there! 👋 I'm a 25-year-old Computer Software Engineer from Goa, India. I completed my B.E. in Computer Engineering in September 2022 🎓 and have been passionate about technology ever since.<br><br>I specialize as a full stack MERN developer 💻, always eager to create efficient, scalable, and innovative solutions 🚀. Here’s a quick look at my technical toolkit:<br><br>- **Front-end & Back-end:** MERN stack, JavaScript, HTML, CSS, Bootstrap, jQuery<br>- **Programming Languages:** Python 🐍, Java ☕, JavaScript<br>- **Database & Tools:** MySQL, Firebase, Postman, Git, Ubuntu 🐧<br>- **Machine Learning & Data Science:** scikit-learn, Keras, TensorFlow 🤖<br>- **Design & Prototyping:** Figma 🎨<br><br>I’m always excited to collaborate on projects that push the boundaries of technology 🤝. Feel free to explore my repositories and reach out if you'd like to work together or just chat about tech! 💬<be>
+## About Me<br><br>Hi there! 👋 I'm a 25-year-old Computer Software Engineer from Goa, India. I completed my B.E. in Computer Engineering in September 2022 🎓 and have been passionate about technology ever since.<br><br>I specialise as a full-stack MERN developer 💻, always eager to create efficient, scalable, and innovative solutions 🚀. Here’s a quick look at my technical toolkit:<br><br>- **Front-end & Back-end:** MERN stack, JavaScript, HTML, CSS, Bootstrap, jQuery<br>- **Programming Languages:** Python 🐍, Java ☕, JavaScript<br>- **Database & Tools:** MySQL, Firebase, Postman, Git, Ubuntu 🐧<br>- **Machine Learning & Data Science:** scikit-learn, Keras, TensorFlow 🤖<br>- **Design & Prototyping:** Figma 🎨<br><br>I’m always excited to collaborate on projects that push the boundaries of technology 🤝. Feel free to explore my repositories and reach out if you'd like to work together or just chat about tech! 💬<be>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+MERN+Developer)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
 
 ## 🏆 GitHub Trophies
-!<a href="https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula" target="_blank" rel="noopener noreferrer nofollow"></a>
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
