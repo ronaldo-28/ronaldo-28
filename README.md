@@ -15,22 +15,23 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ronaldo-28&theme=dracula&show_icons=true&cache_seconds=1800)
-
 ![](https://streak-stats.demolab.com?user=ronaldo-28&theme=dracula)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&row=2&column=3&margin-w=15&margin-h=15)
+<!-- Fixed Trophy Section -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&no-frame=false&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- This service is often down; if it doesn't show, check the username again -->
+<img src="https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 
 ### Visitor Count
-
 ![Visitors](https://count.getloli.com/get/@ronaldo-28?theme=rule34)
-
-
