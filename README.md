@@ -20,18 +20,14 @@
 
 ## 🏆 GitHub Trophies
 <!-- Fixed Trophy Section -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&no-frame=false&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 <!-- This service is often down; if it doesn't show, check the username again -->
-<img src="https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+![](https://github-contributor-stats.vercel.app/api?username=ronaldo-28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Visitor Count
 ![Visitors](https://count.getloli.com/get/@ronaldo-28?theme=rule34)
