@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&no-frame=true&margin-w=10&cache_seconds=3600)
+![](https://github-profile-trophy.vercel.app/?username=ronaldo-28&v=2)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
