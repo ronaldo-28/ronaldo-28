@@ -26,11 +26,9 @@
 
 # 📊 GitHub Stats:
 <!-- Dynamic GitHub statistics generated via the github-readme-stats service. -->
-![](https://github-readme-stats.vercel.app/api?username=ronaldo-28&theme=dracula&show_icons=true&cache_seconds=1800)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ronaldo-28&show_icons=true&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=ronaldo-28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ronaldo-28&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 <!-- Visual representation of GitHub achievements. -->
