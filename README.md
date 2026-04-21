@@ -33,8 +33,7 @@ I specialise as a full-stack MERN developer 💻, always eager to build efficien
 
 ## ⚡ Typing Animation
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+MER
-N+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+MERN+Developer+🚀)](https://git.io/typing-svg)
 
 ## 🌐 Socials 🌍
 
