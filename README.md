@@ -95,13 +95,13 @@ I specialise as a full-stack MERN developer 💻, always eager to build efficien
 
 <!-- A random developer quote fetched from an external API. -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ## 📈 Contribution Graph 📊
 
 <!-- Heatmap style activity graph showing recent contributions. -->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ronaldo-28&theme=dracula&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronaldo-28&theme=dracula&hide_border=true&area=true)
 
 ## 📊 Profile Summary 📌
 
