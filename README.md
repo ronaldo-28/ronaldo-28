@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ronaldo-28&theme=dracula&show_icons=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com?user=ronaldo-28&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=ronaldo-28&show_icons=true&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
 
