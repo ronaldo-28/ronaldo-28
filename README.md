@@ -34,7 +34,7 @@
 
 ## 🏆 GitHub Trophies
 <!-- Visual representation of GitHub achievements. -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ronaldo-28&theme=dracula&column=-1&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://trophy.benkou.dev/?username=ronaldo-28)
 
 ### ✍️ Random Dev Quote
 <!-- A random developer quote fetched from an external API. -->
