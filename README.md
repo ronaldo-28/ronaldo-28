@@ -82,7 +82,7 @@ I specialise as a full-stack MERN developer 💻, always eager to build efficien
 <!-- Dynamic GitHub statistics generated via the github-readme-stats service. -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)<br/>
-![Streak](https://streak-stats.demolab.com?user=ronaldo-28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streak](https://streak-stats.demolab.com?user=ronaldo-28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronaldo-28&layout=compact&theme=dracula)
 
 ## 🏆 GitHub Achievements 🥇
